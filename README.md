@@ -139,8 +139,8 @@ A lightweight memory system using **Redis Cloud** to maintain:
 ## 📦 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/multi-agent-ai-system.git
-cd multi-agent-ai-system
+git clone https://github.com/sanil27022003/automatic-fiesta.git
+cd automatic-fiesta
 ```
 
 ```
