@@ -1,0 +1,46 @@
+[
+  {
+    "compressor": "NONE",
+    "id": "199cb75f-b884-4827-8392-534242cf581a",
+    "host": "redis-16443.crce179.ap-south-1-1.ec2.redns.redis-cloud.com",
+    "port": 16443,
+    "name": "Sanil-free-db",
+    "db": null,
+    "username": null,
+    "password": "8gEnOHnDCrf3gTTTZgVnUEcWQhLRMwCK",
+    "connectionType": "STANDALONE",
+    "nameFromProvider": "Sanil-free-db",
+    "provider": "RE_CLOUD",
+    "lastConnection": "2025-05-30T14:27:33.387Z",
+    "modules": [
+      {
+        "name": "ReJSON",
+        "version": 20810,
+        "semanticVersion": "2.8.10"
+      },
+      {
+        "name": "searchlight",
+        "version": 21017
+      },
+      {
+        "name": "bf",
+        "version": 20807,
+        "semanticVersion": "2.8.7"
+      },
+      {
+        "name": "timeseries",
+        "version": 11206,
+        "semanticVersion": "1.12.6"
+      }
+    ],
+    "tls": null,
+    "tlsServername": null,
+    "verifyServerCert": null,
+    "caCert": null,
+    "clientCert": null,
+    "ssh": null,
+    "sshOptions": null,
+    "forceStandalone": null,
+    "tags": []
+  }
+]
