@@ -1,0 +1,16 @@
+From: jane.doe@example.com
+To: support@company.com
+Subject: Invoice Discrepancy - Urgent
+
+Hello Support Team,
+
+I hope this message finds you well. I recently received Invoice #12345 dated 2025-05-15 from your company, but I noticed some discrepancies in the billing amounts. The total billed is $1,200, but based on the line items, it should be $1,150.
+
+Could you please review and confirm the correct amount? This is quite urgent as we need to process payments by the end of this week.
+
+Thank you for your prompt assistance.
+
+Best regards,  
+Jane Doe  
+Accounts Payable  
+jane.doe@example.com
