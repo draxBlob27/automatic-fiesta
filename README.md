@@ -1,4 +1,4 @@
-# automatic-fiesta
+# Automatic-fiesta
 🧠 Multi-Agent AI System for Smart Document & Message Processing
 ================================================================
 
