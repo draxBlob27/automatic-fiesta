@@ -1,0 +1,15 @@
+From: Emily Johnson <emily.johnson@xyzcorp.com>
+To: sales@yourcompany.com
+Subject: Request for Quotation - Office Supplies
+Date: Tue, 28 May 2025 11:00:00 -0400
+
+Hello Sales Team,
+
+We are looking to procure office supplies including printer cartridges, paper reams, and stationery. Please provide a quotation with pricing and delivery timelines.
+
+Looking forward to your quick response.
+
+Regards,
+Emily Johnson
+Procurement Officer
+XYZ Corporation

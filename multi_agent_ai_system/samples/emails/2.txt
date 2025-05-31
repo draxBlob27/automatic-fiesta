@@ -1,0 +1,15 @@
+From: John Smith <john.smith@abcsolutions.com>
+To: accounts@yourcompany.com
+Subject: Invoice #12345 for April Services
+Date: Mon, 27 May 2025 09:15:00 -0400
+
+Dear Accounts Team,
+
+Please find attached the invoice #12345 for the services rendered in April 2025. The total amount due is $3,450.00. Kindly process the payment by May 15, 2025.
+
+Thank you for your prompt attention.
+
+Best regards,
+John Smith
+Finance Manager
+ABC Solutions

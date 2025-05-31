@@ -1,0 +1,20 @@
+{
+  "experiment_id": "EXP20250530-01",
+  "description": "Preliminary dataset from multi-agent AI system training run.",
+  "parameters": {
+    "learning_rate": 0.001,
+    "batch_size": 128,
+    "epochs_completed": 15,
+    "optimizer": "Adam"
+  },
+  "results_summary": {
+    "accuracy": 0.87,
+    "loss": 0.34,
+    "f1_score": 0.85
+  },
+  "notes": [
+    "Training stabilized after epoch 5.",
+    "Model overfitting observed after epoch 12.",
+    "Next run will use dropout regularization."
+  ]
+}

@@ -1,0 +1,13 @@
+From: legal@yourcompany.com
+To: allstaff@yourcompany.com
+Subject: New Data Privacy Regulation Update - Action Required
+Date: Thu, 30 May 2025 08:30:00 -0400
+
+Dear Team,
+
+Please be informed that the new data privacy regulation (GDPR amendment 2025) will come into effect starting June 1, 2025. All departments must update their data handling procedures accordingly and complete the compliance training by May 25.
+
+Contact Compliance Officer Sarah Lee for questions.
+
+Thanks,
+Legal Department

@@ -1,0 +1,25 @@
+{
+  "invoice_number": 1001,
+  "invoice_date": "2025-05-01",
+  "items": [
+    {
+      "description": "Enterprise Software License",
+      "quantity": 5,
+      "unit_price": 1200.00,
+      "total_price": 6000.00
+    },
+    {
+      "description": "Annual Maintenance and Support",
+      "quantity": 1,
+      "unit_price": 1500.00,
+      "total_price": 1500.00
+    },
+    {
+      "description": "On-site Training Sessions",
+      "quantity": 3,
+      "unit_price": 800.00,
+      "total_price": 2400.00
+    }
+  ],
+  "total_amount": 9900.00
+}
