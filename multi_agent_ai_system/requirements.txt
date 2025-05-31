@@ -1,0 +1,6 @@
+instructor
+pydantic
+openai
+python-dotenv
+PyMuPDF
+redis
