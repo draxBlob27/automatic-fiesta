@@ -139,7 +139,7 @@ A lightweight memory system using **Redis Cloud** to maintain:
 ## 📦 Getting Started
 
 ```bash
-git clone https://github.com/sanil27022003/automatic-fiesta.git
+git clone https://github.com/draxBlob27/automatic-fiesta.git
 cd automatic-fiesta
 ```
 
